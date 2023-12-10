@@ -19,6 +19,6 @@ Clone the repository and explore the code. Feel free
 
 ## Connect with Me
 
-If u find any probelm or u want just to talk about the code let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/omar-jebbari/) and [Discord]($_omvr)
+If u find any probelm or u want just to talk about the code let's connect! Find me on [LinkedIn](https://www.linkedin.com/in/omar-jebbari/) and Discord @_omvr
 
 Happy coding! 💻🚀
